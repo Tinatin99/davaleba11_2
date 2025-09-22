@@ -1,0 +1,24 @@
+# Windows system files
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# User files
+*.log
+*.tmp
+*.bak
+*.swp
+*.sublime-workspace
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Node / npm
+node_modules/
+package-lock.json
+
+# OneDrive & Temporary
+*.lnk
+*.tmp
+~$*
